@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX//+lY\u003d",
+        "filename": "coconut.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 605
+      },
+      "writtenOn": "2013-03-08T12:02:33Z",
+      "side": 0,
+      "message": "dont move it !\nyou have 1 cdma phone",
+      "revId": "e777f38b0dc04ed7a5e4cf74cac7d96fa4542547",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
